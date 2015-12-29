@@ -1,0 +1,14 @@
+/build/
+/target/
+*.xml
+AwsCredentials.properties
+/target/
+/target/
+/target/
+/target/
+/target/
+/target/
+/target/
+/target/
+/target/
+/target/
